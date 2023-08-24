@@ -1,4 +1,4 @@
-FaceFusion
+MukhaSamyojan
 ==========
 
 > Next generation face swapper and enhancer.
@@ -10,13 +10,13 @@ FaceFusion
 Preview
 -------
 
-![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
+![Preview](https://github.com/vikasharma005/MukhaSamyojan/blob/main/.gitignore/preview.png)
 
 
 Installation
 ------------
 
-Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://join.facefusion.io) community that will guide you to install FaceFusion.
+Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. 
 
 [Basic](https://docs.facefusion.io/installation/basic) - It is more likely to work on your computer, but will be quite slow
 
